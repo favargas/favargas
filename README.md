@@ -1,4 +1,4 @@
-- 🌱 Hello, I’m @favargas 🌱
+- 🌱 ... Hello, I’m @favargas ...🌱
 - 🌱 ... There is nothing more stronger than a broken man rebuilding himself ...🌱
 
 <!---
