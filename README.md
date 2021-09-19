@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @favargas
-- 🌱 I’m currently learning R.
+- 🌱 Hello, I’m @favargas 🌱
+- 🌱 ... There is nothing more stronger than a broken man rebuilding himself ...🌱
 
 <!---
 favargas/favargas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
